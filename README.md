@@ -1,16 +1,20 @@
-## Hi there 👋
+## Godfred Yarney
+**Generative AI Engineer | Agentic AI | LLM Engineering**
 
-<!--
-**gyarney-cyber/gyarney-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building intelligent applications, autonomous agents, and AI-powered business solutions.
 
-Here are some ideas to get you started:
+Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · OpenAI · LangChain · LangGraph · CrewAI · AutoGen · MCP · Hugging Face
+
+Featured Projects
+- Agentic AI & Multi-Agent Systems
+- RAG & LLM Engineering
+- AI-Powered HR Assistant
+- LLM Evaluation & Benchmarking
+- Deep Learning & Transformers
+- Python Applications
+
+**Connect**
+
+[LinkedIn](https://www.linkedin.com/in/godfredyarney/) · gyarney@gmail.com
