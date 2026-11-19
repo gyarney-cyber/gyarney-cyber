@@ -21,7 +21,7 @@ Featured Projects
 
 
 
-## genai-engineering-portfolio
+## GENAI-ENGINEERING-portfolio
 
 Main profile README, project directory, skills and architecture overview.
 
