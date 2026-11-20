@@ -1,52 +1,47 @@
+
 # Godfred Yarney
-**Generative AI Engineer | Agentic AI | LLM Engineering**
+### Generative AI Engineer | Agentic AI | LLM Engineering
 
-Building intelligent applications, autonomous agents, and AI-powered business solutions.
+I build intelligent applications, autonomous AI agents,
+and LLM-powered solutions that solve real-world business problems.
 
-Technical Stack
+## Technical Expertise
 
-Python · OpenAI · LangChain · LangGraph · CrewAI · AutoGen · MCP · Hugging Face
+- Python
+- OpenAI
+- LangChain & LangGraph
+- CrewAI & AutoGen
+- Model Context Protocol (MCP)
+- RAG & LLM Fine-Tuning
+- Multi-Agent Systems
+- Transformers & Generative Models
 
-Featured Projects
-- Agentic AI & Multi-Agent Systems
-- RAG & LLM Engineering
-- AI-Powered HR Assistant
-- LLM Evaluation & Benchmarking
-- Deep Learning & Transformers
-- Python Applications
-
-**Connect**
-
-[LinkedIn](https://www.linkedin.com/in/godfredyarney/) · gyarney@gmail.com
-
-
-
-## GENAI-ENGINEERING-portfolio
-
-Main profile README, project directory, skills and architecture overview.
-
-### Python Development
-- patient-management-django
-- python-password-manager
-- python-decorators
-- advanced-calendar-app
-- health-tracker
+## Featured Projects
 
 ### Agentic AI & Multi-Agent Systems
-- langgraph-agent-workflows
-- autogen-multi-agent-systems
-- crewai-agent-teams
+- [LangGraph Agent Workflows](REPOSITORY_URL)
+- [CrewAI Agent Teams](REPOSITORY_URL)
+- [AutoGen Multi-Agent Systems](REPOSITORY_URL)
 
 ### LLM Engineering
-- rag-llm-applications
-- llm-fine-tuning
-- llm-benchmarking-evaluation
-- langchain-workflows
-- prompt-engineering
+- [RAG Applications](REPOSITORY_URL)
+- [LLM Fine-Tuning](REPOSITORY_URL)
+- [LLM Benchmarking & Evaluation](REPOSITORY_URL)
+- [LangChain Workflows](REPOSITORY_URL)
 
-### Deep Learning & Generative Models
-- attention-mechanisms-transformers
-- vae-gan-generative-models
+### Deep Learning
+- [Attention Mechanisms & Transformers](REPOSITORY_URL)
+- [VAE & GAN Models](REPOSITORY_URL)
 
 ### Applied AI
-- ai-powered-hr-assistant
+- [AI-Powered HR Assistant](REPOSITORY_URL)
+
+### Python Development
+- [Patient Management System](REPOSITORY_URL)
+- [Python Password Manager](REPOSITORY_URL)
+- [Advanced Calendar Application](REPOSITORY_URL)
+- [Health Tracker](REPOSITORY_URL)
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/godfredyarney/
+- Portfolio: https://gyarney.com
